@@ -7,7 +7,7 @@ Welcome to the Pandas Tutorials repository! This repository is dedicated to prov
 
 I am a beginner in pandas and will be uploading daily topics based on pandas to this repository. Each topic will cover a different aspect of pandas, from basic data manipulation to more advanced techniques. The goal is to build a comprehensive collection of tutorials that can help anyone learn and master pandas.
 
-## Topics Covered
+## Topics Covered and to be Covered
 
 - Data Inspection
 - Data Cleaning
